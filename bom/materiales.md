@@ -1,0 +1,6 @@
+- 1x Microcontrolador ESP32
+- 1x Sensor de movimiento PIR
+- 1x Servomotor
+- 1x LED
+- 1x Resistencia de 220 Ω
+- Cables de conexión 
